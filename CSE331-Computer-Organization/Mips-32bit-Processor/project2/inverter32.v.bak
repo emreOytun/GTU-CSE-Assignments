@@ -1,0 +1,4 @@
+module inverter32(output[31:0] result, input[31:0] input);
+
+
+endmodule

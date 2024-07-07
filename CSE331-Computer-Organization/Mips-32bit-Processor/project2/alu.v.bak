@@ -1,0 +1,8 @@
+// Subtractor-comparator icerme olayi
+// Structural-behavioral olayi
+// Set-less-than icin sonucta ayri bir bit olmasi
+module alu(output[31:0] result, output slt, input CLK, input[31:0] a, input[31:0] b);
+
+
+
+endmodule

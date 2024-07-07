@@ -1,0 +1,35 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Emre/Documents/quartus_lab/project2/simulation/modelsim
+valu
+!s110 1703529386
+!i10b 1
+!s100 4oHiSB5h_]joCRe]U8V3J2
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+IU7iK>RYmbU?cDPTGeIJ_D2
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1702239060
+8project2_200104004099.vo
+Fproject2_200104004099.vo
+!i122 0
+L0 32 10361
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1703529386.000000
+!s107 project2_200104004099.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|project2_200104004099.vo|
+!i113 1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+.
+tCvgOpt 0

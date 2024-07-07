@@ -1,0 +1,116 @@
+Archive Project report for project2_200104004099
+Fri Jan 19 20:05:40 2024
+Quartus Prime Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2020  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Fri Jan 19 20:05:40 2024 ;
+; Revision Name          ; project2_200104004099                 ;
+; Top-level Entity Name  ; mips                                  ;
+; Family                 ; Cyclone V                             ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Info: File Set 'Source control' contains:
+    Info: Project source and settings files
+    Info: Automatically detected source files
+Warning: Hierarchical Platform Designer systems and custom IP components(_hw.tcl and associated files) are not archived by the Quartus Archiver
+Info: Archive will store files relative to the closest common parent directory
+Info (13213): Using common directory C:/Users/Emre/Documents/quartus_lab/project2/
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive 'C:/Users/Emre/Documents/quartus_lab/project2/project2_200104004099.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'project2_200104004099.archive.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/20.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 1 warning
+    Info: Peak virtual memory: 4824 megabytes
+    Info: Processing ended: Fri Jan 19 20:05:40 2024
+    Info: Elapsed time: 00:00:01
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++-----------------------------------------------+
+; Files Archived                                ;
++-----------------------------------------------+
+; File Name                                     ;
++-----------------------------------------------+
+; adder.v                                       ;
+; adder1.v                                      ;
+; adder4_cla.v                                  ;
+; adder4_g_p_G_P_signals.v                      ;
+; addSubBlock.v                                 ;
+; alu.v                                         ;
+; alu_control.v                                 ;
+; and4bit.v                                     ;
+; and32bit.v                                    ;
+; control_unit.v                                ;
+; fivebit_mux_two_one.v                         ;
+; fourbit_mux_two_one.v                         ;
+; instruction_block.v                           ;
+; instructions.mem                              ;
+; inverter32.v                                  ;
+; memory.mem                                    ;
+; memory_block.v                                ;
+; memory_operations_testbench.v                 ;
+; mips.v                                        ;
+; mips_tb.v                                     ;
+; mod.v                                         ;
+; mod_cu.v                                      ;
+; mod_dp.v                                      ;
+; nor4bit.v                                     ;
+; nor32bit.v                                    ;
+; onebit_mux_two_one.v                          ;
+; or4bit.v                                      ;
+; or32bit.v                                     ;
+; project2_200104004099.qpf                     ;
+; project2_200104004099.qsf                     ;
+; project2_200104004099_assignment_defaults.qdf ;
+; register.v                                    ;
+; register_block.v                              ;
+; registers.mem                                 ;
+; shift_left_2.v                                ;
+; sign_extend.v                                 ;
+; tb_alu.v                                      ;
+; thirtytwobit_mux_two_one.v                    ;
+; xor4bit.v                                     ;
+; xor32bit.v                                    ;
++-----------------------------------------------+
+
+

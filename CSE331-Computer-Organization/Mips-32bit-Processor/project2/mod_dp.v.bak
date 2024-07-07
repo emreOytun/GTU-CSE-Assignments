@@ -1,0 +1,3 @@
+module mod_dp(input CLK, input[31:0] a, input[31:0] b, input we, input selA, output ltb, output result);
+
+endmodule

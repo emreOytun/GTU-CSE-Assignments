@@ -1,0 +1,9 @@
+module adder1(
+output[31:0] s,
+output c,
+input[31:0] a,
+input[31:0] b);
+
+
+
+endmodule

@@ -1,0 +1,7 @@
+
+State Machine - |mips|alu:alu1|mod:mod1|mod_cu:mod_control|curr_state
+Name curr_state.END curr_state.CHECK curr_state.SUBTRACT curr_state.INIT 
+curr_state.INIT 0 0 0 0 
+curr_state.SUBTRACT 0 0 1 1 
+curr_state.CHECK 0 1 0 1 
+curr_state.END 1 0 0 1 

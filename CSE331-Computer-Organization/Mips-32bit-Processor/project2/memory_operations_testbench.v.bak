@@ -1,0 +1,11 @@
+module memory_operations_testbench ():
+
+wire[31:0] content;
+memory_operations m1 (content);
+
+initial begin
+	$read
+end
+
+
+endmodule

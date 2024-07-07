@@ -1,0 +1,369 @@
+# Reading pref.tcl
+# do project2_200104004099_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/adder1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:08 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/adder1.v 
+# -- Compiling module adder1
+# 
+# Top level modules:
+# 	adder1
+# End time: 20:05:08 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/adder4_cla.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:08 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/adder4_cla.v 
+# -- Compiling module adder4_cla
+# 
+# Top level modules:
+# 	adder4_cla
+# End time: 20:05:08 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/adder.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:08 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/adder.v 
+# -- Compiling module adder
+# 
+# Top level modules:
+# 	adder
+# End time: 20:05:08 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/adder4_g_p_G_P_signals.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:08 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/adder4_g_p_G_P_signals.v 
+# -- Compiling module adder4_g_p_G_P_signals
+# 
+# Top level modules:
+# 	adder4_g_p_G_P_signals
+# End time: 20:05:08 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/addSubBlock.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:08 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/addSubBlock.v 
+# -- Compiling module addSubBlock
+# 
+# Top level modules:
+# 	addSubBlock
+# End time: 20:05:08 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/inverter32.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:08 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/inverter32.v 
+# -- Compiling module inverter32
+# 
+# Top level modules:
+# 	inverter32
+# End time: 20:05:08 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/mod_dp.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:08 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/mod_dp.v 
+# -- Compiling module mod_dp
+# 
+# Top level modules:
+# 	mod_dp
+# End time: 20:05:09 on Jan 19,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/onebit_mux_two_one.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:09 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/onebit_mux_two_one.v 
+# -- Compiling module onebit_mux_two_one
+# 
+# Top level modules:
+# 	onebit_mux_two_one
+# End time: 20:05:09 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/fourbit_mux_two_one.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:09 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/fourbit_mux_two_one.v 
+# -- Compiling module fourbit_mux_two_one
+# 
+# Top level modules:
+# 	fourbit_mux_two_one
+# End time: 20:05:09 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/thirtytwobit_mux_two_one.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:09 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/thirtytwobit_mux_two_one.v 
+# -- Compiling module thirtytwobit_mux_two_one
+# 
+# Top level modules:
+# 	thirtytwobit_mux_two_one
+# End time: 20:05:09 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/mod_cu.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:09 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/mod_cu.v 
+# -- Compiling module mod_cu
+# 
+# Top level modules:
+# 	mod_cu
+# End time: 20:05:09 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/mod.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:09 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/mod.v 
+# -- Compiling module mod
+# 
+# Top level modules:
+# 	mod
+# End time: 20:05:09 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/alu.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:09 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/alu.v 
+# -- Compiling module alu
+# 
+# Top level modules:
+# 	alu
+# End time: 20:05:09 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/and4bit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:09 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/and4bit.v 
+# -- Compiling module and4bit
+# 
+# Top level modules:
+# 	and4bit
+# End time: 20:05:09 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/and32bit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:09 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/and32bit.v 
+# -- Compiling module and32bit
+# 
+# Top level modules:
+# 	and32bit
+# End time: 20:05:09 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/or4bit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:09 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/or4bit.v 
+# -- Compiling module or4bit
+# 
+# Top level modules:
+# 	or4bit
+# End time: 20:05:09 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/or32bit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:09 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/or32bit.v 
+# -- Compiling module or32bit
+# 
+# Top level modules:
+# 	or32bit
+# End time: 20:05:09 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/xor4bit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:09 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/xor4bit.v 
+# -- Compiling module xor4bit
+# 
+# Top level modules:
+# 	xor4bit
+# End time: 20:05:10 on Jan 19,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/xor32bit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:10 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/xor32bit.v 
+# -- Compiling module xor32bit
+# 
+# Top level modules:
+# 	xor32bit
+# End time: 20:05:10 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/nor4bit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:10 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/nor4bit.v 
+# -- Compiling module nor4bit
+# 
+# Top level modules:
+# 	nor4bit
+# End time: 20:05:10 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/nor32bit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:10 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/nor32bit.v 
+# -- Compiling module nor32bit
+# 
+# Top level modules:
+# 	nor32bit
+# End time: 20:05:10 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/sign_extend.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:10 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/sign_extend.v 
+# -- Compiling module sign_extend
+# 
+# Top level modules:
+# 	sign_extend
+# End time: 20:05:10 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/shift_left_2.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:10 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/shift_left_2.v 
+# -- Compiling module shift_left_2
+# 
+# Top level modules:
+# 	shift_left_2
+# End time: 20:05:10 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/control_unit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:10 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/control_unit.v 
+# -- Compiling module control_unit
+# 
+# Top level modules:
+# 	control_unit
+# End time: 20:05:10 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/alu_control.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:10 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/alu_control.v 
+# -- Compiling module alu_control
+# 
+# Top level modules:
+# 	alu_control
+# End time: 20:05:10 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/mips.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:10 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/mips.v 
+# -- Compiling module mips
+# 
+# Top level modules:
+# 	mips
+# End time: 20:05:10 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/fivebit_mux_two_one.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:10 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/fivebit_mux_two_one.v 
+# -- Compiling module fivebit_mux_two_one
+# 
+# Top level modules:
+# 	fivebit_mux_two_one
+# End time: 20:05:10 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/instruction_block.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:10 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/instruction_block.v 
+# -- Compiling module instruction_block
+# 
+# Top level modules:
+# 	instruction_block
+# End time: 20:05:10 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/register_block.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:10 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/register_block.v 
+# -- Compiling module register_block
+# 
+# Top level modules:
+# 	register_block
+# End time: 20:05:11 on Jan 19,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/memory_block.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:11 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/memory_block.v 
+# -- Compiling module memory_block
+# 
+# Top level modules:
+# 	memory_block
+# End time: 20:05:11 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/Emre/Documents/quartus_lab/project2 {C:/Users/Emre/Documents/quartus_lab/project2/mips_tb.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:05:11 on Jan 19,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Emre/Documents/quartus_lab/project2" C:/Users/Emre/Documents/quartus_lab/project2/mips_tb.v 
+# -- Compiling module mips_tb
+# 
+# Top level modules:
+# 	mips_tb
+# End time: 20:05:11 on Jan 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  mips_tb
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs=""+acc"" mips_tb 
+# Start time: 20:05:11 on Jan 19,2024
+# Loading work.mips_tb
+# Loading work.mips
+# Loading work.sign_extend
+# Loading work.thirtytwobit_mux_two_one
+# Loading work.fourbit_mux_two_one
+# Loading work.onebit_mux_two_one
+# Loading work.shift_left_2
+# Loading work.adder
+# Loading work.adder4_g_p_G_P_signals
+# Loading work.adder4_cla
+# Loading work.adder1
+# Loading work.instruction_block
+# Loading work.control_unit
+# Loading work.alu_control
+# Loading work.fivebit_mux_two_one
+# Loading work.register_block
+# Loading work.memory_block
+# Loading work.alu
+# Loading work.and32bit
+# Loading work.and4bit
+# Loading work.or32bit
+# Loading work.or4bit
+# Loading work.xor32bit
+# Loading work.xor4bit
+# Loading work.nor32bit
+# Loading work.nor4bit
+# Loading work.addSubBlock
+# Loading work.inverter32
+# Loading work.mod
+# Loading work.mod_cu
+# Loading work.mod_dp
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# Break key hit
+# Break in Module mips at C:/Users/Emre/Documents/quartus_lab/project2/mips.v line 49
+# End time: 20:05:23 on Jan 19,2024, Elapsed time: 0:00:12
+# Errors: 0, Warnings: 0

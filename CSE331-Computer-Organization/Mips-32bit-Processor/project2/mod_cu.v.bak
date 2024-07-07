@@ -1,0 +1,9 @@
+module mod_cu(output we, output selA, input go, input ltb);
+
+localparam	INIT = 2'b00,
+				CHECK = 2'b01,
+				END = 2'b10;
+				
+
+
+endmodule

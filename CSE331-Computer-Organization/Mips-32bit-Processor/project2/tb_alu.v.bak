@@ -1,0 +1,10 @@
+module tb_alu();
+
+reg[31:0] a;
+reg[31:0] b;
+reg CLK = 0;  // Initialize CLK
+wire[31:0] result;
+
+alu alu1(.result, .CLK, .a, .b, .AluOp);
+
+endmodule

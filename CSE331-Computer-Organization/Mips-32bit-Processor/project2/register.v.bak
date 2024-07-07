@@ -1,0 +1,5 @@
+module register(input CLK, input we, input in, output reg data);
+
+
+
+endmodule

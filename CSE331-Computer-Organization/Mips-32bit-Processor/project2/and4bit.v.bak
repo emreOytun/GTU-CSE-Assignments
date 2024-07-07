@@ -1,0 +1,5 @@
+module and4bit(output[3:0] result, input[3:0] a, input[3:0] b);
+
+
+
+endmodule

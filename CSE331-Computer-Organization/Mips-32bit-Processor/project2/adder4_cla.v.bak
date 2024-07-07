@@ -1,0 +1,11 @@
+module adder4_cla(
+output[31:0] s,
+output cout,
+input[31:0] a,
+input[31:0] b,
+input cin);
+
+
+
+
+endmodule

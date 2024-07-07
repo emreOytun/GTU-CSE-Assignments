@@ -1,0 +1,13 @@
+module instruction_block (
+output reg [31:0] instruction,
+input [31:0] pc);
+
+always @ (address) begin
+	$readmemb("registers.mem", registers);
+	content = registers[address];
+	
+	registers[address] = 32'b0;
+	$writememb("registers.mem", registers);
+end
+
+endmodule

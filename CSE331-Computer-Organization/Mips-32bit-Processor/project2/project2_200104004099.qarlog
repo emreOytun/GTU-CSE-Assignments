@@ -1,0 +1,51 @@
+Quartus Prime Archive log --	C:/Users/Emre/Documents/quartus_lab/project2/project2_200104004099.qarlog
+
+Archive:	C:/Users/Emre/Documents/quartus_lab/project2/project2_200104004099.qar
+Date:		Fri Jan 19 20:05:40 2024
+Quartus Prime		20.1.1 Build 720 11/11/2020 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/Emre/Documents/quartus_lab/project2/addSubBlock.v
+C:/Users/Emre/Documents/quartus_lab/project2/adder.v
+C:/Users/Emre/Documents/quartus_lab/project2/adder1.v
+C:/Users/Emre/Documents/quartus_lab/project2/adder4_cla.v
+C:/Users/Emre/Documents/quartus_lab/project2/adder4_g_p_G_P_signals.v
+C:/Users/Emre/Documents/quartus_lab/project2/alu.v
+C:/Users/Emre/Documents/quartus_lab/project2/alu_control.v
+C:/Users/Emre/Documents/quartus_lab/project2/and32bit.v
+C:/Users/Emre/Documents/quartus_lab/project2/and4bit.v
+C:/Users/Emre/Documents/quartus_lab/project2/control_unit.v
+C:/Users/Emre/Documents/quartus_lab/project2/fivebit_mux_two_one.v
+C:/Users/Emre/Documents/quartus_lab/project2/fourbit_mux_two_one.v
+C:/Users/Emre/Documents/quartus_lab/project2/instruction_block.v
+C:/Users/Emre/Documents/quartus_lab/project2/instructions.mem
+C:/Users/Emre/Documents/quartus_lab/project2/inverter32.v
+C:/Users/Emre/Documents/quartus_lab/project2/memory.mem
+C:/Users/Emre/Documents/quartus_lab/project2/memory_block.v
+C:/Users/Emre/Documents/quartus_lab/project2/memory_operations_testbench.v
+C:/Users/Emre/Documents/quartus_lab/project2/mips.v
+C:/Users/Emre/Documents/quartus_lab/project2/mips_tb.v
+C:/Users/Emre/Documents/quartus_lab/project2/mod.v
+C:/Users/Emre/Documents/quartus_lab/project2/mod_cu.v
+C:/Users/Emre/Documents/quartus_lab/project2/mod_dp.v
+C:/Users/Emre/Documents/quartus_lab/project2/nor32bit.v
+C:/Users/Emre/Documents/quartus_lab/project2/nor4bit.v
+C:/Users/Emre/Documents/quartus_lab/project2/onebit_mux_two_one.v
+C:/Users/Emre/Documents/quartus_lab/project2/or32bit.v
+C:/Users/Emre/Documents/quartus_lab/project2/or4bit.v
+C:/Users/Emre/Documents/quartus_lab/project2/project2_200104004099.qpf
+C:/Users/Emre/Documents/quartus_lab/project2/project2_200104004099.qsf
+C:/Users/Emre/Documents/quartus_lab/project2/project2_200104004099_assignment_defaults.qdf
+C:/Users/Emre/Documents/quartus_lab/project2/register.v
+C:/Users/Emre/Documents/quartus_lab/project2/register_block.v
+C:/Users/Emre/Documents/quartus_lab/project2/registers.mem
+C:/Users/Emre/Documents/quartus_lab/project2/shift_left_2.v
+C:/Users/Emre/Documents/quartus_lab/project2/sign_extend.v
+C:/Users/Emre/Documents/quartus_lab/project2/tb_alu.v
+C:/Users/Emre/Documents/quartus_lab/project2/thirtytwobit_mux_two_one.v
+C:/Users/Emre/Documents/quartus_lab/project2/xor32bit.v
+C:/Users/Emre/Documents/quartus_lab/project2/xor4bit.v
+	======= Total: 40 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

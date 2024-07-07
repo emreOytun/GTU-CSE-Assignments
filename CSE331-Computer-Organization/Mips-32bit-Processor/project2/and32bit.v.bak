@@ -1,0 +1,12 @@
+module and32bit(output[31:0] result, input[31:0] a, input[31:0] b);
+
+and4bit and4bit1(result[3:0], a[3:0], b[3:0]);
+and4bit and4bit1(result[3:0], a[3:0], b[3:0]);
+and4bit and4bit1(result[3:0], a[3:0], b[3:0]);
+and4bit and4bit1(result[3:0], a[3:0], b[3:0]);
+and4bit and4bit1(result[3:0], a[3:0], b[3:0]);
+and4bit and4bit1(result[3:0], a[3:0], b[3:0]);
+and4bit and4bit1(result[3:0], a[3:0], b[3:0]);
+and4bit and4bit1(result[3:0], a[3:0], b[3:0]);
+
+endmodule

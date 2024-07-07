@@ -1,0 +1,8 @@
+module mod(output[31:0] result, input CLK, input[31:0] a, input[31:0] b, input reset);
+
+wire selA, we, ltb;
+
+mod_cu mod_control(.we(we), .selA(selA), .CLK(CLK), .reset(reset), .ltb(ltb));
+mod_dp mod_datapath(.result(result), .ltb(ltb), .CLK(CLK), .a(a), .b(b), .we(we), .selA(selA));
+
+endmodule

@@ -1,0 +1,5 @@
+thirtytwobit_mux_two_one(output[31:0] out, input[31:0] in0, in1, input sel);
+
+
+
+endmodule
